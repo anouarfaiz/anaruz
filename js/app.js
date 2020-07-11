@@ -64,11 +64,11 @@ const app = new Vue({
                 'fb': 'https://www.facebook.com/AOX.ELH'
             },
             {
-                'name': 'Squendissy hamza',
-                'img': 'https://scontent.frba2-1.fna.fbcdn.net/v/t1.0-1/p960x960/50879416_2253456061644845_4737129145421529088_o.jpg?_nc_cat=108&_nc_oc=AQkhWDrhRVOErxQ3mWXepqShG4QJVVjrWzyLddUPSeECZn-L55NV_lelEGTsH0ydeFE&_nc_ht=scontent.frba2-1.fna&oh=83fa904a84148a328e5e317b8a1adebf&oe=5DDF8955',
+                'name': 'khadija',
+                'img': 'inbound8045987248688984781 - Khadija 19.jpg',
                 'postes': ["Responsable d'infographie"],
                 'motivation': 'Waa rakum 3arfin li kayen',
-                'fb': 'https://www.facebook.com/SquendiSsy'
+                'fb': ''
             },
             {
                 "name": "Kadimi hamza",
