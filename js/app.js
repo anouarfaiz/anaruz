@@ -149,7 +149,17 @@ const app = new Vue({
                 ],
                 "motivation": "Anaruz kant la famille tanya dyali pendant had 2ans lifato obritha tb9a kifma kant oktar ondiro lkhir ktar oktar.....\n",
                 "fb": "https://www.facebook.com/bela.salma.3"
-            }
+            },
+            {
+                "name": "Attouch Mohammed",
+                "img": "https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.0-9/107896967_4201757173200207_2128423823446339923_n.jpg?_nc_cat=101&_nc_sid=85a577&_nc_ohc=1qPCsPckNFEAX80sIOS&_nc_ht=scontent.fcmn2-1.fna&oh=5b63f9e18ba65528a428cd34ff8922d6&oe=5F312088",
+                "postes": [
+                    "Vice-Président",
+                    "Responsable de sponsoring"
+                ],
+                "motivation": "Anaruz kant la famille tanya dyali pendant had 2ans lifato obritha tb9a kifma kant oktar ondiro lkhir ktar oktar.....\n",
+                "fb": "https://www.facebook.com/bela.salma.3"
+            },
 
         ]
     },
