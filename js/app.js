@@ -49,8 +49,7 @@ const app = new Vue({
             },
             {
                 'name': 'Elhajji loubna',
-                'img': 'https://scontent.frba2-2.fna.fbcdn.net/v/t1.0-9/45400921_182369892692390_4985409797370150912_n.jpg?_nc_cat=111&_nc_oc=AQmP74iuKek3zD0Yg6Z-1puY6NAbdomm-B9zrjs-E87laK2QmKGwRG42Fgs6Voh2Ge0&_nc_ht=scontent.frba2-2.fna&oh=df6e3e251c9eb5789cf1059fef94ee22&oe=5DE4EAF9',
-                'postes': ["Chef d'actions"],
+                'img': 'img/xor.PNG'
                 'motivation': "Mon but c'est détruire la pauvreté ,et avec anaruz j'ai pu avec un  groupe qui vous donne toujours le courage de continuer, mais c'était seulement le début ,le futur nous attend avec les sourires des milles d'enfants qui va être rayonner de nouveau.",
                 'fb': 'https://www.facebook.com/loubna.elhajji.54'
             },
