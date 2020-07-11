@@ -42,7 +42,7 @@ const app = new Vue({
         condidats: [
             {
                 'name': 'Anouar Faiz',
-                'img': 'https://scontent.frba2-1.fna.fbcdn.net/v/t1.0-9/19260476_100745897225096_8822391212299454450_n.jpg?_nc_cat=107&_nc_oc=AQmEjD7INCWRnlOkVbnlTbEn4-ymF6VayowERDsVE4IyjtNvhRjD1CiAW1gl83iOysQ&_nc_ht=scontent.frba2-1.fna&oh=2c7c039902115e08d600b8418ac9cd3a&oe=5DED568A',
+                'img': 'img/mlc.png',
                 'postes': ["Vice-Président", "Chef d'actions"],
                 'motivation': 'Anaruz for ever',
                 'fb': 'https://www.facebook.com/anouar.faiz.507'
