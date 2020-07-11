@@ -28,7 +28,7 @@ var condidat = Vue.component('condidat-component', {
             <button><a :href="condidat.fb" target="_blank">Facebook</a></button>
         </div>
     </div>
-    
+
     `
 })
 
@@ -65,7 +65,7 @@ const app = new Vue({
             },
             {
                 'name': 'khadija',
-                'img': 'img/inbound8045987248688984781 - Khadija 19.JPG',
+                'img': 'img/khadija.jpg',
                 'postes': ["Responsable d'infographie"],
                 'motivation': 'Waa rakum 3arfin li kayen',
                 'fb': ''
@@ -98,7 +98,7 @@ const app = new Vue({
                 ],
                 "motivation": "J'aimerais bien nkoun présidente pour rendre Anaruz une association inchaalahhh puisque daba on a association des étudiants, et pour le deuxieme choix c'est ce qui me passionne\n",
                 "fb": "https://www.facebook.com/valeria.aguirey"
-            
+
             },
             {
                 "name": "Ikram agouzal",
@@ -174,7 +174,7 @@ const app = new Vue({
             if(this.condidats[this.current_slide - 1]){
                 this.current_slide -= 1;
                 console.log("dsad");
-                
+
             }
         }
     },

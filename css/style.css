@@ -45,10 +45,11 @@ h1 {
 }
 
 #avatar {
-	display: inline;
-	height: 230px;
+	display: block;
+	height: 200px;
 	width: auto;
-	margin-left: -34px;
+    margin: 0 auto;
+	/* margin-left: -34px; */
 }
 
 #bio {
@@ -150,11 +151,11 @@ h6 {
     width: 300px;
     height: 200px;
   }
-  
+
   .myModalImg:hover {
     opacity: 0.7;
   }
-  
+
   /* The Modal (background) */
   .modal {
     position: fixed;
@@ -168,7 +169,7 @@ h6 {
     background-color: black;
     background-color: rgba(0, 0, 0, 0.9);
   }
-  
+
   /* Modal Content (Image) */
   .modal-content {
     margin: auto;
@@ -176,7 +177,7 @@ h6 {
     width: 80%;
     max-width: 700px;
   }
-  
+
   /* Caption of Modal Image (Image Text) - Same Width as the Image */
   #caption {
     margin: auto;
@@ -188,7 +189,7 @@ h6 {
     padding: 10px 0;
     height: 150px;
   }
-  
+
   /* Add Animation - Zoom in the Modal */
   .modal-content, #caption {
     -webkit-animation-name: zoom;
@@ -196,7 +197,7 @@ h6 {
     animation-name: zoom;
     animation-duration: 0.6s;
   }
-  
+
   @keyframes zoom {
     from {
       transform: scale(0);
@@ -215,14 +216,14 @@ h6 {
     font-weight: bold;
     transition: 0.3s;
   }
-  
+
   .close:hover,
   .close:focus {
     color: #bbb;
     text-decoration: none;
     cursor: pointer;
   }
-  
+
   #controls{
     display: none !important;
   }
@@ -231,7 +232,7 @@ h6 {
     .modal-content {
       width: 100%;
     }
-   
+
     .card {
       background-color: #393B45;
       height: auto;
@@ -252,7 +253,7 @@ h6 {
       overflow: hidden;
       border-radius: 50%;
     }
-    
+
     h1 {
       color: white;
       text-align: center;
@@ -264,14 +265,8 @@ h6 {
       font-weight: 800;
       margin: 0;
     }
-    
-    #avatar {
-      display: inline;
-      height: 230px;
-      width: auto;
-      margin-left: -34px;
-    }
-    
+
+
     #bio {
       display: block;
       margin: 30px auto;
@@ -283,7 +278,7 @@ h6 {
       width: 40px;
       background-color: transparent;
     }
-  
+
     #controls{
       display: block !important;
     }
