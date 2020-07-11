@@ -49,7 +49,8 @@ const app = new Vue({
             },
             {
                 'name': 'Elhajji loubna',
-                'img': 'img/xor.PNG'
+                'img': 'img/xor.PNG',
+                'postes': ["Vice-Président", "Chef d'actions"],
                 'motivation': "Mon but c'est détruire la pauvreté ,et avec anaruz j'ai pu avec un  groupe qui vous donne toujours le courage de continuer, mais c'était seulement le début ,le futur nous attend avec les sourires des milles d'enfants qui va être rayonner de nouveau.",
                 'fb': 'https://www.facebook.com/loubna.elhajji.54'
             },
