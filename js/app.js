@@ -50,14 +50,14 @@ const app = new Vue({
             {
                 'name': 'Kham achraf',
                 'img': 'img/KhamAchraf.jpg',
-                'postes': ["chef d'actions", "vice-président"],
+                'postes': ["1 chef d'actions", "2 vice-président"],
                 'motivation': "Andir lif jehdi bach n3awn club.",
                 'fb': 'https://www.facebook.com/achraf.kham.9'
             },
             {
                 'name': 'EL Hassnaoui Aous',
                 'img': 'img/aous.jpg',
-                'postes': ["responsable de cellule infographie","chef d'actions"],
+                'postes': ["1 responsable de cellule infographie","2 chef d'actions"],
                 'motivation': `Doing good/faire du bien, has been one of my goals since high school, where my first humanitarian activity was at an orphanage, where you can see all those little kids that need love, affection and being take cared of.
                                From that experience, I have learned that in this world we should be helpful to each other, we should take care of the needed people, we should spread love between us.
                                That's why in Anaruz ❤️, I get to do all of this, and together we can do a lot more than we can imagine, that what stands for Anaruz ❤️; hope.
@@ -67,14 +67,14 @@ const app = new Vue({
             {
                 'name': 'Hajji khadija',
                 'img': 'img/Khadijael.jpg',
-                'postes': ["chef d'actions","trésorière"],
+                'postes': ["1 chef d'actions","2 trésorière"],
                 'motivation': 'Anaruz, the club that gives hope not only to the poor, but also to its members .Being in Anaruz gave me such a great experience and a great change of personality, and when having hard times, Anaruz was my only outlet .We hugged children, laughed so hard to their stories  and smiled when seeing their angelic smile, we talked to adults and cried with them, we shared their pain and we felt it deep inside our hearts.Being in Anaruz made me rethink my behavior towards everything, gave me the opportunity to meet new people, that are now my second family herefore, after two years in my second home, I really want to make Anaruz a better place to complete what we began. I want to free my ideas from the prison of my mind and make them a topic to discuss with the anaruzits for the goal that we all share: seeing Anaruz at its finestAnd if I have to tell one motivation to be a member of the clubs board, it would definitely be my infinite love to Anaruz.',
                 'fb': 'https://www.facebook.com/khadija.ahmed.75'
             },
             {
                 "name": "Halaoui mohammed",
                 "img": "img/SimoHala.jpg",
-                "postes": ["chef d'actions","trésorier"],
+                "postes": ["1 chef d'actions","2 trésorier"],
                     
                 "motivation": "Anaruz c' est a famille,je suis très motivé et actif et j aime bcp le bénévolat en général ,en résumé anaruz c' est quelque chose de très précieux vraiment ça m a permis de voir ma vie d' une manière franchement je veux faire des choses spécial et donner le plus❤",
                 "fb": "https://www.facebook.com/profile.php?id=100008026516593"
@@ -83,8 +83,8 @@ const app = new Vue({
                 "name": "Houria Laarabi ",
                 "img": "img/Hourialar.jpeg",
                 "postes": [
-                    "vice-présidente",
-                    " chef d'actions"
+                    "1 vice-présidente",
+                    " 2 chef d'actions"
                    
                 ],
                 "motivation": "D'après ma trés belle expérience dans ce club je suis trés passionnée par  ce poste",
@@ -92,10 +92,10 @@ const app = new Vue({
             },
             {
                 "name": "Oubelkacem Manal",
-                "img": "img/",
+                "img": "img/oubelmanal.jpg",
                 "postes": [
-                    "chef d'actions",
-                    "Présidente"
+                    "1 chef d'actions",
+                    "2 Présidente"
                 ],
                 "motivation": "Je suis fière d'être une membre de la famille anaruz pendant 3 ans je veux être une membre de bureau pour donner encore et encore pour ce club qui ma donner beaucoup de joie. ",
                 "fb": "https://www.facebook.com/manal.obelkacem.7"
