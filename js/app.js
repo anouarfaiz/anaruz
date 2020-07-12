@@ -125,17 +125,7 @@ const app = new Vue({
                 "motivation": "J'ai toujours été intéressé par le travail social, aujourd'hui j'ai la chance de pouvoir intégrer le bureau des postes du club ANARUZ afin que je puisse donner de mon temps pour aider le club à réaliser des actions humanitaires et de mettre en pratique toutes les connaissances et compétences que j'ai acquises dans les deux dernières années #Ensemble_nous_créons_l_espoir",
                 "fb": "https://web.facebook.com/reda.winner"
             },
-            {
-                "name": "Benkaddour chaima",
-                "img": "https://scontent.frba2-2.fna.fbcdn.net/v/t1.0-9/48423247_2384530698502141_3969617596273131520_o.jpg?_nc_cat=110&_nc_oc=AQlGuS7iSNuBIWsVqJdrjnVJeO2emFhj34awbrSDzcumOCEnV_EJN6UN94tJKS9rpS0&_nc_ht=scontent.frba2-2.fna&oh=c08ff6c50f2d32f3f70df23d2650beec&oe=5DD97DAB",
-                "postes": [
-                    "Secrétaire génerale",
-                    "Tresoriere"
-                ],
-                "rtl": true,
-                "motivation": "الهدف ديال club anaruz هو هدف انساني أخلاقي و اجتماعي.ملي دخلت ليه تعلمت شحال من حاجة. أول حاجة هي انك خاصك تحط ديما قدام عينيك داك الهدف لي خدام على قبلو.تقاتل باش توصل ليه باش ما كان .و لي هو انك تساعد شحال من ناس محتاجين و لو بدعم بسيط منك او ترسم البسمة في وجوه ناس لي محنين بزاف. ختاريت هاد البوسط حيت نقدر نعطي فيه بكل ما استطعت باش تحقق  anaruz ديما المبتغى المنشود.\n",
-                "fb": "https://www.facebook.com/cho.cho.18062"
-            },
+            
             {
                 "name": "Rharmili Kenza",
                 "img": "img/kenzarharmili.jpg",
@@ -146,16 +136,7 @@ const app = new Vue({
                 "motivation": "Mettre le club en valeur , le représenter dans une belle image",
                 "fb": "https://web.facebook.com/kenza.rharmili"
             },
-            {
-                "name": "Attouch Mohammed",
-                "img": "https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.0-9/107896967_4201757173200207_2128423823446339923_n.jpg?_nc_cat=101&_nc_sid=85a577&_nc_ohc=1qPCsPckNFEAX80sIOS&_nc_ht=scontent.fcmn2-1.fna&oh=5b63f9e18ba65528a428cd34ff8922d6&oe=5F312088",
-                "postes": [
-                    "Vice-Président",
-                    "Responsable de sponsoring"
-                ],
-                "motivation": "Anaruz kant la famille tanya dyali pendant had 2ans lifato obritha tb9a kifma kant oktar ondiro lkhir ktar oktar.....\n",
-                "fb": "https://www.facebook.com/bela.salma.3"
-            },
+            
 
         ]
     },
