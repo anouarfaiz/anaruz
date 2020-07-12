@@ -103,15 +103,17 @@ const app = new Vue({
             },
              
             {
-                "name": "Laila Elhaloui",
+                "name": "Elmorjani Fatima-zahra ",
                 "img": "img/laila.png",
                 "postes": [
-                    "Présidente",
-                    "Chef d'actions"
+                    "1 vice_Présidente",
+                    "2 Chef d'actions"
                 ],
-                "motivation": "\"Apres avoir passé une tres bonne année avec la famille Anaruz , où j'ai rencontré des gens formidables qui se donnent réellement pour les autres , la chose qui a développé l amour que j avais depuis toujours envers ce travail noble , bénévolat. Qui est devenu une source de bonheur pour moi .  Je veux sincèrement être un membre actif, de cette famille,je veux apporter mes idées (j'en ai bcp la raison pour laquelle je postule pour le poste présidente') , participer comme je peux, et donner beaucoup de temps a notre petit univers, et vraiment Je serai heureuse d'apporter ma petite goutte d'eau à l'océan, de partager tant que je peux du respect,d'aide , l'écoute, et de partage.  Une grande responsabilité,  mais d autre part un grand amour de ma part ,aider les autres et dessiner un sourire sera notre objectif et notre motivation.  Vivons heureux, vivons solidaires !\"\n",
-                "fb": "https://www.facebook.com/alial.elhalouii"
+                "motivation": "L'amour du club , l'envie de participer de nouveau aux différentes activités, améliorer mon expérience au sein du club et assurer sa continuité.ANARUZ qui ma beaucoup affecté au niveau personnel et la famille avec laquelle j'ai vécu mes meilleurs jours. ", 
+                  "fb": "https://www.facebook.com/fleurita.zora.1"
+            
             },
+            
             {
                 "name": "Rania Boumazzough",
                 "img": "img/rania.png",
