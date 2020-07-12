@@ -49,18 +49,19 @@ const app = new Vue({
             },
             {
                 'name': 'Kham achraf',
-                'img': 'img/',
+                'img': 'img/KhamAchraf.jpg',
                 'postes': ["chef d'actions", "vice-président"],
                 'motivation': "Andir lif jehdi bach n3awn club.",
-                'fb': 'https://www.facebook.com/loubna.elhajji.54'
+                'fb': 'https://www.facebook.com/achraf.kham.9'
             },
             {
                 'name': 'EL Hassnaoui Aous',
-                'img': 'https://scontent.frba2-2.fna.fbcdn.net/v/t1.0-9/53078606_1501858863281203_3145138520033591296_n.jpg?_nc_cat=110&_nc_oc=AQk7Qx7NrmUbJMObrbMMrwm9Imfqvc9EUs8U9sG7quYcwbATl51Umf81fJXs4ZanFs4&_nc_ht=scontent.frba2-2.fna&oh=69dde72441f1db59304c158eb1f5d73b&oe=5D9FFE4B',
-                'postes': ["Responsable d'infographie"],
-                'motivation': `I've always been so dedicated to humanitarian activities knowing their great effect on my life, and during this year with my favorite club Anaruz 💚 I've been so motivated to take this to a new whole level, to a better future for me, for Anaruz, for our society.
-                For that I will take small steps but big in fact, and that's by nominating myself to this post hoping I'll be worthy of it.
-                Thank you Anaruz for this amazing experience, see you next year 😊.`,
+                'img': 'img/',
+                'postes': ["responsable de cellule infographie","chef d'actions"],
+                'motivation': `Doing good/faire du bien, has been one of my goals since high school, where my first humanitarian activity was at an orphanage, where you can see all those little kids that need love, affection and being take cared of.
+                               From that experience, I have learned that in this world we should be helpful to each other, we should take care of the needed people, we should spread love between us.
+                               That's why in Anaruz ❤️, I get to do all of this, and together we can do a lot more than we can imagine, that what stands for Anaruz ❤️; hope.
+                               #Together_we_create_hope 💚.`,
                 'fb': 'https://www.facebook.com/AOX.ELH'
             },
             {
