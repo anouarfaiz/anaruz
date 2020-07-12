@@ -116,7 +116,7 @@ const app = new Vue({
             
             {
                 "name": "Tanane reda",
-                "img": "img/",
+                "img": "img/RedaTanane.jpg",
                 "postes": [
                     "1 Tresorier",
                     "2 Chef d'actions"
@@ -137,7 +137,7 @@ const app = new Vue({
             },
             {
                 "name": "Rharmili Kenza",
-                "img": "",
+                "img": "img/kenzarharmili.jpg",
                 "postes": [
                     "1 responsable de cellule médiatisation",
                     "2 Vice-Président"
