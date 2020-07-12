@@ -43,8 +43,9 @@ const app = new Vue({
             {
                 'name': 'Anouar Faiz',
                 'img': 'img/mlc.png',
-                'postes': ["Vice-Président", "Chef d'actions"],
-                'motivation': 'Anaruz for ever',
+                'postes': ["président", "Vice-Président"],
+                "rtl": true,
+                'motivation': 'تجربة "أناروز" تجربة فريدة و غنية طبعت مساري ،من خلال صداقات و ذكرايات أقل ما يقال عنها رائعة و مليئة بالتجارب الإنسانية . بعد سنتين قضيتها داخل النادي  كما  شغلت منصب نائب الرئيس راكمت تجربة و خبرة متواضعة أود استثمارها و تسخيرها لخدمة النادي بمعية جميع أعضاء النادي',
                 'fb': 'https://www.facebook.com/anouar.faiz.507'
             },
             {
@@ -94,7 +95,7 @@ const app = new Vue({
                 "name": "Oubelkacem Manal",
                 "img": "img/oubelmanal.jpg",
                 "postes": [
-                    "1 chef d'actions",
+                    "1 responsable de cellule sponsoring",
                     "2 Présidente"
                 ],
                 "motivation": "Je suis fière d'être une membre de la famille anaruz pendant 3 ans je veux être une membre de bureau pour donner encore et encore pour ce club qui ma donner beaucoup de joie. ",
