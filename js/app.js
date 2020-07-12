@@ -104,7 +104,7 @@ const app = new Vue({
              
             {
                 "name": "Elmorjani Fatima-zahra ",
-                "img": "img/laila.png",
+                "img": "img/fatimazahra.jpg",
                 "postes": [
                     "1 vice_Présidente",
                     "2 Chef d'actions"
