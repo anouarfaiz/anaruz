@@ -56,7 +56,7 @@ const app = new Vue({
             },
             {
                 'name': 'EL Hassnaoui Aous',
-                'img': 'img/',
+                'img': 'img/aous.jpg',
                 'postes': ["responsable de cellule infographie","chef d'actions"],
                 'motivation': `Doing good/faire du bien, has been one of my goals since high school, where my first humanitarian activity was at an orphanage, where you can see all those little kids that need love, affection and being take cared of.
                                From that experience, I have learned that in this world we should be helpful to each other, we should take care of the needed people, we should spread love between us.
@@ -65,20 +65,19 @@ const app = new Vue({
                 'fb': 'https://www.facebook.com/AOX.ELH'
             },
             {
-                'name': 'khadija',
+                'name': 'Hajji khadija',
                 'img': 'img/Khadijael.jpg',
-                'postes': ["Responsable d'infographie"],
-                'motivation': 'Waa rakum 3arfin li kayen',
-                'fb': ''
+                'postes': ["chef d'actions","trésorière"],
+                'motivation': 'Anaruz, the club that gives hope not only to the poor, but also to its membersBeing in Anaruz gave me such a great experience and a great change of personality, and when having hard times, Anaruz was my only outletWe hugged children, laughed so hard to their stories and smiled when seeing their angelic smile, we talked to adults and cried with them, we shared their pain and we felt it deep inside our heartsBeing in Anaruz made me rethink my behavior towards everything, gave me the opportunity to meet new people, that are now my second familyherefore, after two years in my second home, I really want to make Anaruz a better place to complete what we began. I want to free my ideas from the prison of my mind and make them a topic to discuss with the anaruzits for the goal that we all share: seeing Anaruz at its finestAnd if I have to tell one motivation to be a member of the clubs board, it would definitely be my infinite love to Anaruz.',
+                'fb': 'https://www.facebook.com/khadija.ahmed.75'
             },
             {
-                "name": "Kadimi hamza",
+                "name": "Halaoui mohammed",
                 "img": "https://scontent.frba2-2.fna.fbcdn.net/v/t1.0-1/37873311_2118905555046654_3759187155369328640_n.jpg?_nc_cat=106&_nc_oc=AQnpkbs7c4oG8tlgvhegVfuHsiaL6li08oolpdAcs-cnv-S_IQlUAoeYs1DwTzMjv-U&_nc_ht=scontent.frba2-2.fna&oh=705a60356f08f1f18bf95aceb78e783e&oe=5DD31AE4",
-                "postes": [
-                    "Secrétaire géneral"
-                ],
-                "motivation": "Je peux m en occuper de tout ce qui est administratif (les papiers...)\n",
-                "fb": "https://www.facebook.com/kadimihamza99"
+                "postes": ["chef d'actions","trésorier"],
+                    
+                "motivation": "Anaruz c' est a famille,je suis très motivé et actif et j aime bcp le bénévolat en général ,en résumé anaruz c' est quelque chose de très précieux vraiment ça m a permis de voir ma vie d' une manière franchement je veux faire des choses spécial et donner le plus❤",
+                "fb": "https://www.facebook.com/profile.php?id=100008026516593"
             },
             {
                 "name": "Mohammed El Attouch",
