@@ -101,19 +101,7 @@ const app = new Vue({
                 "fb": "https://www.facebook.com/manal.obelkacem.7"
 
             },
-            {
-                "name": "Elmorjani Fatima-zahra ",
-                "img": "", 
-
-                
-
-                "postes": [
-                    "1 vice-présidente"
-                    "2 chef d'actions"
-                ],
-                "motivation": "L'amour du club , l'envie de participer de nouveau aux différentes activités, améliorer mon expérience au sein du club et assurer sa continuité ANARUZ qui ma beaucoup affecté au niveau personnel et la famille avec laquelle j'ai vécu mes meilleurs jours. ",
-                "fb": "https://www.facebook.com/fleurita.zora.1"
-            },
+             
             {
                 "name": "Laila Elhaloui",
                 "img": "img/laila.png",
