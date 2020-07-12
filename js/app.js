@@ -43,22 +43,22 @@ const app = new Vue({
             {
                 'name': 'Anouar Faiz',
                 'img': 'img/mlc.png',
-                'postes': ["1 président", " 2 Vice-Président"],
+                'postes': ["Président", "Vice-Président"],
                 "rtl": true,
-                'motivation': 'تجربة Anaruz تجربة فريدة و غنية طبعت مساري ،من خلال صداقات و ذكرايات أقل ما يقال عنها رائعة و مليئة بالتجارب الإنسانية . بعد سنتين قضيتها داخل النادي  كما  شغلت منصب نائب الرئيس راكمت تجربة و خبرة متواضعة أود استثمارها و تسخيرها لخدمة النادي بمعية جميع أعضاء النادي',
+                'motivation': 'تجربة Anaruz تجربة فريدة و غنية طبعت مساري  داخل Ensa ،من خلال صداقات و ذكرايات أقل ما يقال عنها رائعة و مليئة بالتجارب الإنسانية . بعد سنتين قضيتها داخل النادي  كما  شغلت منصب نائب الرئيس راكمت تجربة و خبرة متواضعة أود استثمارها و تسخيرها لخدمة النادي بمعية جميع أعضاء النادي',
                 'fb': 'https://www.facebook.com/anouar.faiz.507'
             },
             {
                 'name': 'Kham achraf',
                 'img': 'img/KhamAchraf.jpg',
-                'postes': ["1 chef d'actions", "2 vice-président"],
+                'postes': ["1 Chef d'actions", "2 Vice-président"],
                 'motivation': "Andir lif jehdi bach n3awn club.",
                 'fb': 'https://www.facebook.com/achraf.kham.9'
             },
             {
                 'name': 'EL Hassnaoui Aous',
                 'img': 'img/aous.jpg',
-                'postes': ["1 responsable de cellule infographie","2 chef d'actions"],
+                'postes': ["1 Responsable de cellule infographie","2 Chef d'actions"],
                 'motivation': `Doing good/faire du bien, has been one of my goals since high school, where my first humanitarian activity was at an orphanage, where you can see all those little kids that need love, affection and being take cared of.
                                From that experience, I have learned that in this world we should be helpful to each other, we should take care of the needed people, we should spread love between us.
                                That's why in Anaruz ❤️, I get to do all of this, and together we can do a lot more than we can imagine, that what stands for Anaruz ❤️; hope.
@@ -68,14 +68,14 @@ const app = new Vue({
             {
                 'name': 'Hajji khadija',
                 'img': 'img/Khadijael.jpg',
-                'postes': ["1 chef d'actions","2 trésorière"],
+                'postes': ["1 Chef d'actions","2 Trésorière"],
                 'motivation': 'Anaruz, the club that gives hope not only to the poor, but also to its members .Being in Anaruz gave me such a great experience and a great change of personality, and when having hard times, Anaruz was my only outlet .We hugged children, laughed so hard to their stories  and smiled when seeing their angelic smile, we talked to adults and cried with them, we shared their pain and we felt it deep inside our hearts.Being in Anaruz made me rethink my behavior towards everything, gave me the opportunity to meet new people, that are now my second family herefore, after two years in my second home, I really want to make Anaruz a better place to complete what we began. I want to free my ideas from the prison of my mind and make them a topic to discuss with the anaruzits for the goal that we all share: seeing Anaruz at its finestAnd if I have to tell one motivation to be a member of the clubs board, it would definitely be my infinite love to Anaruz.',
                 'fb': 'https://www.facebook.com/khadija.ahmed.75'
             },
             {
                 "name": "Halaoui mohammed",
                 "img": "img/SimoHala.jpg",
-                "postes": ["1 chef d'actions","2 trésorier"],
+                "postes": ["1 Chef d'actions","2 Trésorier"],
                     
                 "motivation": "Anaruz c' est a famille,je suis très motivé et actif et j aime bcp le bénévolat en général ,en résumé anaruz c' est quelque chose de très précieux vraiment ça m a permis de voir ma vie d' une manière franchement je veux faire des choses spécial et donner le plus❤",
                 "fb": "https://www.facebook.com/profile.php?id=100008026516593"
@@ -84,8 +84,8 @@ const app = new Vue({
                 "name": "Houria Laarabi ",
                 "img": "img/Hourialar.jpeg",
                 "postes": [
-                    "1 vice-présidente",
-                    " 2 chef d'actions"
+                    "1 Vice-présidente",
+                    " 2 Chef d'actions"
                    
                 ],
                 "motivation": "D'après ma trés belle expérience dans ce club je suis trés passionnée par  ce poste",
@@ -95,7 +95,7 @@ const app = new Vue({
                 "name": "Oubelkacem Manal",
                 "img": "img/oubelmanal.jpg",
                 "postes": [
-                    "1 responsable de cellule sponsoring",
+                    "1 Responsable de cellule sponsoring",
                     "2 Présidente"
                 ],
                 "motivation": "Je suis fière d'être une membre de la famille anaruz pendant 3 ans je veux être une membre de bureau pour donner encore et encore pour ce club qui ma donner beaucoup de joie. ",
@@ -107,7 +107,7 @@ const app = new Vue({
                 "name": "Elmorjani Fatima-zahra ",
                 "img": "img/fatimazahra.jpg",
                 "postes": [
-                    "1 vice_Présidente",
+                    "1 Vice_Présidente",
                     "2 Chef d'actions"
                 ],
                 "motivation": "L'amour du club , l'envie de participer de nouveau aux différentes activités, améliorer mon expérience au sein du club et assurer sa continuité.ANARUZ qui ma beaucoup affecté au niveau personnel et la famille avec laquelle j'ai vécu mes meilleurs jours. ", 
@@ -129,8 +129,8 @@ const app = new Vue({
                 "name": "Benkaddour chaima",
                 "img": "https://scontent.frba2-2.fna.fbcdn.net/v/t1.0-9/48423247_2384530698502141_3969617596273131520_o.jpg?_nc_cat=110&_nc_oc=AQlGuS7iSNuBIWsVqJdrjnVJeO2emFhj34awbrSDzcumOCEnV_EJN6UN94tJKS9rpS0&_nc_ht=scontent.frba2-2.fna&oh=c08ff6c50f2d32f3f70df23d2650beec&oe=5DD97DAB",
                 "postes": [
-                    "Secrétaire géneral",
-                    "Tresorier"
+                    "Secrétaire génerale",
+                    "Tresoriere"
                 ],
                 "rtl": true,
                 "motivation": "الهدف ديال club anaruz هو هدف انساني أخلاقي و اجتماعي.ملي دخلت ليه تعلمت شحال من حاجة. أول حاجة هي انك خاصك تحط ديما قدام عينيك داك الهدف لي خدام على قبلو.تقاتل باش توصل ليه باش ما كان .و لي هو انك تساعد شحال من ناس محتاجين و لو بدعم بسيط منك او ترسم البسمة في وجوه ناس لي محنين بزاف. ختاريت هاد البوسط حيت نقدر نعطي فيه بكل ما استطعت باش تحقق  anaruz ديما المبتغى المنشود.\n",
@@ -140,7 +140,7 @@ const app = new Vue({
                 "name": "Rharmili Kenza",
                 "img": "img/kenzarharmili.jpg",
                 "postes": [
-                    "1 responsable de cellule médiatisation",
+                    "1 Responsable de cellule médiatisation",
                     "2 Vice-Président"
                 ],
                 "motivation": "Mettre le club en valeur , le représenter dans une belle image",
