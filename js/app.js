@@ -103,7 +103,7 @@ const app = new Vue({
             },
             {
                 "name": "Elmorjani Fatima-zahra ",
-                "img": "img/fatimazahra.jpg", 
+                "img": "", 
 
                 
 
