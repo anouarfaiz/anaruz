@@ -42,8 +42,8 @@ const app = new Vue({
         condidats: [
             {
                 'name': 'Anouar Faiz',
-                'img': 'img/mlc.png',
-                'postes': ["Président", "Vice-Président"],
+                'img': 'img/anouar.jpg',
+                'postes': ["1 Président", "2 Vice-Président"],
                 "rtl": true,
                 'motivation': 'تجربة Anaruz تجربة فريدة و غنية طبعت مساري  داخل Ensa ،من خلال صداقات و ذكرايات أقل ما يقال عنها رائعة و مليئة بالتجارب الإنسانية . بعد سنتين قضيتها داخل النادي  كما  شغلت منصب نائب الرئيس راكمت تجربة و خبرة متواضعة أود استثمارها و تسخيرها لخدمة النادي بمعية جميع أعضاء النادي',
                 'fb': 'https://www.facebook.com/anouar.faiz.507'
