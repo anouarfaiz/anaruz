@@ -115,14 +115,14 @@ const app = new Vue({
             },
             
             {
-                "name": "Rania Boumazzough",
-                "img": "img/rania.png",
+                "name": "Tanane reda",
+                "img": "img/",
                 "postes": [
-                    "Tresorier",
-                    "Chef d'actions"
+                    "1 Tresorier",
+                    "2 Chef d'actions"
                 ],
-                "motivation": "Le travail humainitaire est l'un de mes motivation dans la vie\n",
-                "fb": "https://www.facebook.com/rania.bmg.9"
+                "motivation": "J'ai toujours été intéressé par le travail social, aujourd'hui j'ai la chance de pouvoir intégrer le bureau des postes du club ANARUZ afin que je puisse donner de mon temps pour aider le club à réaliser des actions humanitaires et de mettre en pratique toutes les connaissances et compétences que j'ai acquises dans les deux dernières années #Ensemble_nous_créons_l_espoir",
+                "fb": "https://web.facebook.com/reda.winner"
             },
             {
                 "name": "Benkaddour chaima",
@@ -136,14 +136,14 @@ const app = new Vue({
                 "fb": "https://www.facebook.com/cho.cho.18062"
             },
             {
-                "name": "Belqaid salma",
-                "img": "https://saraha.online/assets/user_img/51c347d9f6f84078f6f3b5f433d02c4b.jpeg",
+                "name": "Rharmili Kenza",
+                "img": "",
                 "postes": [
-                    "Vice-Président",
-                    "Responsable de sponsoring"
+                    "1 responsable de cellule médiatisation",
+                    "2 Vice-Président"
                 ],
-                "motivation": "Anaruz kant la famille tanya dyali pendant had 2ans lifato obritha tb9a kifma kant oktar ondiro lkhir ktar oktar.....\n",
-                "fb": "https://www.facebook.com/bela.salma.3"
+                "motivation": "Mettre le club en valeur , le représenter dans une belle image",
+                "fb": "https://web.facebook.com/kenza.rharmili"
             },
             {
                 "name": "Attouch Mohammed",
