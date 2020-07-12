@@ -43,7 +43,7 @@ const app = new Vue({
             {
                 'name': 'Anouar Faiz',
                 'img': 'img/mlc.png',
-                'postes': ["président", "Vice-Président"],
+                'postes': ["1 président", " 2 Vice-Président"],
                 "rtl": true,
                 'motivation': 'تجربة Anaruz تجربة فريدة و غنية طبعت مساري ،من خلال صداقات و ذكرايات أقل ما يقال عنها رائعة و مليئة بالتجارب الإنسانية . بعد سنتين قضيتها داخل النادي  كما  شغلت منصب نائب الرئيس راكمت تجربة و خبرة متواضعة أود استثمارها و تسخيرها لخدمة النادي بمعية جميع أعضاء النادي',
                 'fb': 'https://www.facebook.com/anouar.faiz.507'
