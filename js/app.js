@@ -102,13 +102,17 @@ const app = new Vue({
 
             },
             {
-                "name": "Ikram agouzal",
-                "img": "",
+                "name": "Elmorjani Fatima-zahra ",
+                "img": "img/fatimazahra.jpg", 
+
+                
+
                 "postes": [
-                    "Chef d'actions"
+                    "1 vice-présidente"
+                    "2 chef d'actions"
                 ],
-                "motivation": ".\n",
-                "fb": "#"
+                "motivation": "L'amour du club , l'envie de participer de nouveau aux différentes activités, améliorer mon expérience au sein du club et assurer sa continuité ANARUZ qui ma beaucoup affecté au niveau personnel et la famille avec laquelle j'ai vécu mes meilleurs jours. ",
+                "fb": "https://www.facebook.com/fleurita.zora.1"
             },
             {
                 "name": "Laila Elhaloui",
