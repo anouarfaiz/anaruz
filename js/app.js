@@ -68,7 +68,7 @@ const app = new Vue({
                 'name': 'Hajji khadija',
                 'img': 'img/Khadijael.jpg',
                 'postes': ["chef d'actions","trésorière"],
-                'motivation': 'Anaruz, the club that gives hope not only to the poor, but also to its membersBeing in Anaruz gave me such a great experience and a great change of personality, and when having hard times, Anaruz was my only outletWe hugged children, laughed so hard to their stories and smiled when seeing their angelic smile, we talked to adults and cried with them, we shared their pain and we felt it deep inside our heartsBeing in Anaruz made me rethink my behavior towards everything, gave me the opportunity to meet new people, that are now my second familyherefore, after two years in my second home, I really want to make Anaruz a better place to complete what we began. I want to free my ideas from the prison of my mind and make them a topic to discuss with the anaruzits for the goal that we all share: seeing Anaruz at its finestAnd if I have to tell one motivation to be a member of the clubs board, it would definitely be my infinite love to Anaruz.',
+                'motivation': 'Anaruz, the club that gives hope not only to the poor, but also to its members .Being in Anaruz gave me such a great experience and a great change of personality, and when having hard times, Anaruz was my only outlet .We hugged children, laughed so hard to their stories  and smiled when seeing their angelic smile, we talked to adults and cried with them, we shared their pain and we felt it deep inside our hearts.Being in Anaruz made me rethink my behavior towards everything, gave me the opportunity to meet new people, that are now my second family herefore, after two years in my second home, I really want to make Anaruz a better place to complete what we began. I want to free my ideas from the prison of my mind and make them a topic to discuss with the anaruzits for the goal that we all share: seeing Anaruz at its finestAnd if I have to tell one motivation to be a member of the clubs board, it would definitely be my infinite love to Anaruz.',
                 'fb': 'https://www.facebook.com/khadija.ahmed.75'
             },
             {
@@ -91,14 +91,14 @@ const app = new Vue({
                 "fb": "https://www.facebook.com/houria.laarabi.3"
             },
             {
-                "name": "El khanfri hajar",
-                "img": "img/hajar.png",
+                "name": "Oubelkacem Manal",
+                "img": "img/",
                 "postes": [
-                    "Présidente",
-                    "Responsable d'infographie"
+                    "chef d'actions",
+                    "Présidente"
                 ],
-                "motivation": "J'aimerais bien nkoun présidente pour rendre Anaruz une association inchaalahhh puisque daba on a association des étudiants, et pour le deuxieme choix c'est ce qui me passionne\n",
-                "fb": "https://www.facebook.com/valeria.aguirey"
+                "motivation": "Je suis fière d'être une membre de la famille anaruz pendant 3 ans je veux être une membre de bureau pour donner encore et encore pour ce club qui ma donner beaucoup de joie. ",
+                "fb": "https://www.facebook.com/manal.obelkacem.7"
 
             },
             {
