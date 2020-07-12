@@ -81,7 +81,7 @@ const app = new Vue({
             },
             {
                 "name": "Houria Laarabi ",
-                "img": "https://scontent.frba2-1.fna.fbcdn.net/v/t1.0-9/44443615_2371336636242279_4332598175949914112_n.jpg?_nc_cat=105&_nc_oc=AQlfk-fUqyDMqce3W1KadE7oyKShG-u_qPVxrWapJm5e86cO2gefZJ66rKZJTmdNTkk&_nc_ht=scontent.frba2-1.fna&oh=55fbb7ff931cbb5d4183e346b49063bb&oe=5DEC7559",
+                "img": "img/Hourialar.jpeg",
                 "postes": [
                     "vice-présidente",
                     " chef d'actions"
