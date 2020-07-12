@@ -63,7 +63,7 @@ const app = new Vue({
                                From that experience, I have learned that in this world we should be helpful to each other, we should take care of the needed people, we should spread love between us.
                                That's why in Anaruz ❤️, I get to do all of this, and together we can do a lot more than we can imagine, that what stands for Anaruz ❤️; hope.
                                #Together_we_create_hope 💚.`,
-                'fb': 'https://www.facebook.com/AOX.ELH'
+                'fb': 'https://www.facebook.com/aous.elh'
             },
             {
                 'name': 'Hajji khadija',
