@@ -42,7 +42,7 @@ const app = new Vue({
         condidats: [
             {
                 'name': 'Anouar Faiz',
-                'img': 'https://scontent.fcmn2-2.fna.fbcdn.net/v/t1.0-9/19260476_100745897225096_8822391212299454450_n.jpg?_nc_cat=107&_nc_sid=85a577&_nc_ohc=REh-B80LnSAAX_wPN19&_nc_ht=scontent.fcmn2-2.fna&oh=a37f62654ce96f702ad633a9eac4739c&oe=5F30C5F6',
+                'img': 'img/anouaaaar.jpg',
                 'postes': ["1 Président", "2 Vice-Président"],
                 "rtl": true,
                 'motivation': 'تجربة Anaruz تجربة فريدة و غنية طبعت مساري  داخل Ensa ،من خلال صداقات و ذكرايات أقل ما يقال عنها رائعة و مليئة بالتجارب الإنسانية . بعد سنتين قضيتها داخل النادي  كما  شغلت منصب نائب الرئيس راكمت تجربة و خبرة متواضعة أود استثمارها و تسخيرها لخدمة النادي بمعية جميع أعضاء النادي',
