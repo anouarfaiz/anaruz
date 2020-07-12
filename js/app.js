@@ -65,7 +65,7 @@ const app = new Vue({
             },
             {
                 'name': 'khadija',
-                'img': 'img/khadijael.jpg',
+                'img': 'img/Khadijael.jpg',
                 'postes': ["Responsable d'infographie"],
                 'motivation': 'Waa rakum 3arfin li kayen',
                 'fb': ''
