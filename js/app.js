@@ -73,21 +73,22 @@ const app = new Vue({
             },
             {
                 "name": "Halaoui mohammed",
-                "img": "https://scontent.frba2-2.fna.fbcdn.net/v/t1.0-1/37873311_2118905555046654_3759187155369328640_n.jpg?_nc_cat=106&_nc_oc=AQnpkbs7c4oG8tlgvhegVfuHsiaL6li08oolpdAcs-cnv-S_IQlUAoeYs1DwTzMjv-U&_nc_ht=scontent.frba2-2.fna&oh=705a60356f08f1f18bf95aceb78e783e&oe=5DD31AE4",
+                "img": "img/SimoHala.jpg",
                 "postes": ["chef d'actions","trésorier"],
                     
                 "motivation": "Anaruz c' est a famille,je suis très motivé et actif et j aime bcp le bénévolat en général ,en résumé anaruz c' est quelque chose de très précieux vraiment ça m a permis de voir ma vie d' une manière franchement je veux faire des choses spécial et donner le plus❤",
                 "fb": "https://www.facebook.com/profile.php?id=100008026516593"
             },
             {
-                "name": "Mohammed El Attouch",
+                "name": "Houria Laarabi ",
                 "img": "https://scontent.frba2-1.fna.fbcdn.net/v/t1.0-9/44443615_2371336636242279_4332598175949914112_n.jpg?_nc_cat=105&_nc_oc=AQlfk-fUqyDMqce3W1KadE7oyKShG-u_qPVxrWapJm5e86cO2gefZJ66rKZJTmdNTkk&_nc_ht=scontent.frba2-1.fna&oh=55fbb7ff931cbb5d4183e346b49063bb&oe=5DEC7559",
                 "postes": [
-                    "Secrétaire géneral",
-                    " Tresorier"
+                    "vice-présidente",
+                    " chef d'actions"
+                   
                 ],
-                "motivation": "..\n",
-                "fb": "https://www.facebook.com/simo.pock"
+                "motivation": "D'après ma trés belle expérience dans ce club je suis trés passionnée par  ce poste",
+                "fb": "https://www.facebook.com/houria.laarabi.3"
             },
             {
                 "name": "El khanfri hajar",
