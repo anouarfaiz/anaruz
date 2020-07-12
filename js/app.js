@@ -42,7 +42,7 @@ const app = new Vue({
         condidats: [
             {
                 'name': 'Anouar Faiz',
-                'img': 'img/anouar.jpg',
+                'img': 'https://scontent.frba2-1.fna.fbcdn.net/v/t1.0-9/19260476_100745897225096_8822391212299454450_n.jpg',
                 'postes': ["1 Président", "2 Vice-Président"],
                 "rtl": true,
                 'motivation': 'تجربة Anaruz تجربة فريدة و غنية طبعت مساري  داخل Ensa ،من خلال صداقات و ذكرايات أقل ما يقال عنها رائعة و مليئة بالتجارب الإنسانية . بعد سنتين قضيتها داخل النادي  كما  شغلت منصب نائب الرئيس راكمت تجربة و خبرة متواضعة أود استثمارها و تسخيرها لخدمة النادي بمعية جميع أعضاء النادي',
@@ -76,7 +76,7 @@ const app = new Vue({
                 "name": "Halaoui mohammed",
                 "img": "img/SimoHala.jpg",
                 "postes": ["1 Chef d'actions","2 Trésorier"],
-
+                    
                 "motivation": "Anaruz c' est a famille,je suis très motivé et actif et j aime bcp le bénévolat en général ,en résumé anaruz c' est quelque chose de très précieux vraiment ça m a permis de voir ma vie d' une manière franchement je veux faire des choses spécial et donner le plus❤",
                 "fb": "https://www.facebook.com/profile.php?id=100008026516593"
             },
@@ -86,7 +86,7 @@ const app = new Vue({
                 "postes": [
                     "1 Vice-présidente",
                     " 2 Chef d'actions"
-
+                   
                 ],
                 "motivation": "D'après ma trés belle expérience dans ce club je suis trés passionnée par  ce poste",
                 "fb": "https://www.facebook.com/houria.laarabi.3"
@@ -102,7 +102,7 @@ const app = new Vue({
                 "fb": "https://www.facebook.com/manal.obelkacem.7"
 
             },
-
+             
             {
                 "name": "Elmorjani Fatima-zahra ",
                 "img": "img/fatimazahra.jpg",
@@ -110,11 +110,11 @@ const app = new Vue({
                     "1 Vice_Présidente",
                     "2 Chef d'actions"
                 ],
-                "motivation": "L'amour du club , l'envie de participer de nouveau aux différentes activités, améliorer mon expérience au sein du club et assurer sa continuité.ANARUZ qui ma beaucoup affecté au niveau personnel et la famille avec laquelle j'ai vécu mes meilleurs jours. ",
+                "motivation": "L'amour du club , l'envie de participer de nouveau aux différentes activités, améliorer mon expérience au sein du club et assurer sa continuité.ANARUZ qui ma beaucoup affecté au niveau personnel et la famille avec laquelle j'ai vécu mes meilleurs jours. ", 
                   "fb": "https://www.facebook.com/fleurita.zora.1"
-
+            
             },
-
+            
             {
                 "name": "Tanane reda",
                 "img": "img/RedaTanane.jpg",
